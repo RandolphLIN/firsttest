@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- Edited with XML Spy v2007 (http://www.altova.com) -->
+<CATALOG>
+	<CD>
+		<TITLE>class</TITLE>
+		<ARTIST>数媒13-1</ARTIST>
+<!-- 	<COUNTRY>USA</COUNTRY>
+		<COMPANY>Columbia</COMPANY>
+		<PRICE>9.90</PRICE>
+		<YEAR>1997</YEAR> -->
+	</CD>
+	<CD>
+		<TITLE>name</TITLE>
+		<ARTIST>林俊兆</ARTIST>
+<!-- 		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Columbia</COMPANY>
+		<PRICE>9.90</PRICE>
+		<YEAR>1997</YEAR> -->
+	</CD>
+
+	<CD>
+		<TITLE>sex</TITLE>
+		<ARTIST>男</ARTIST>
+
+	</CD>
+	<CD>
+		<TITLE>student-id</TITLE>
+		<ARTIST>130430138</ARTIST>
+
+	</CD>
+	<CD>
+		<TITLE>qq</TITLE>
+		<ARTIST>2933089932</ARTIST>
+
+	</CD>
+	<CD>
+		<TITLE>tel</TITLE>
+		<ARTIST>13011158681</ARTIST>
+
+	</CD>
+	<CD>
+		<TITLE> </TITLE>
+		<ARTIST> </ARTIST>
+
+	</CD>
+</CATALOG>
